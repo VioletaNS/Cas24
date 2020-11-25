@@ -15,4 +15,5 @@ namespace Cas24
             return Console.ReadLine();
         }
     }
+
 }
