@@ -15,6 +15,7 @@ namespace Cas24
             {
                 FileHandle.WriteLine("{0}", String.Join(";", InputData));
             }
+
         }
     }
 }
